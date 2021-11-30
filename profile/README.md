@@ -1,4 +1,4 @@
-![](https://spaceship.run/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fimages%2Findex-hero.a75be8f3e774463226423c9e6bd841d6.png&w=3840&q=75)
+![](index-hero.jpg)
 
 # 🚀 Hello from Spaceship!
 
