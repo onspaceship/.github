@@ -1,4 +1,4 @@
-![](index-hero.jpg)
+![](/profile/index-hero.jpg)
 
 # 🚀 Hello from Spaceship!
 
