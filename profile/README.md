@@ -7,5 +7,5 @@ We're a platform for Continuous Delivery that lets you launch your code with one
 There's not a ton to see here that's public right now. In the meantime, check us out on the web:
 
 - 🌐 [Spaceship.run](https://spaceship.run/)
-- �🐤 [@runonspaceship on Twitter](https://twitter.com/runonspaceship)
+- 🐤 [@spaceshipdotrun on Twitter](https://twitter.com/spaceshipdotrun)
 - 💼 [Our LinkedIn profile](https://www.linkedin.com/company/onspaceship/)
